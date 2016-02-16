@@ -1,0 +1,58 @@
+.thumbnail {
+  text-align: center;
+  border-style: none;
+}
+
+#logo {
+    text-align: center;
+    margin:6%;
+}
+#space{
+	height:auto;
+}
+#thumbnail-2row{
+	margin-left: 10%;
+	margin-right: 10%;
+}
+#mynavbar{
+	padding-right:4%;
+}
+ #logopic{
+ 	margin-top:0 ;
+ 	padding-top:0 ;
+ }
+ .nobor{
+ 	border-style: none;
+ }
+ #searchbar{
+ 	margin-bottom: 4%;
+ }
+ #search{
+ 	margin-top: 4%;
+ 	margin-bottom: 0%;
+ }
+ #shoeslogo{
+ 	margin-right:6%;
+ }
+.nav-pills{
+ 	margin-top:-1.2%;
+    display: inline-block;
+  float: none;
+  vertical-align: top;
+  font-style: oblique;  
+  font-weight: 500;
+ }
+ .nav li a{
+ 	color:black;
+ }
+ #secondnav{
+ 	text-align: center;
+ }
+ #whereareyou{
+ 	color:#0099cc;
+ }
+.nav-stacked{
+	font-weight: bold;
+	font-size: 110%;
+
+}
